@@ -1,0 +1,6 @@
+Order ID,Order Date,Customer ID,Customer Name,Product ID,Product Name,Category,Region,Sales,Quantity,Discount,Profit
+1,2024-01-01,1001,John Smith,P001,Widget A,Widgets,North,200,2,0.1,50
+2,2024-01-02,1002,Jane Doe,P002,Gadget B,Gadgets,South,150,1,0.05,30
+3,2024-01-03,1003,Bob Johnson,P003,Widget A,Widgets,East,300,3,0.1,75
+4,2024-01-04,1004,Emily Davis,P004,Gadget C,Gadgets,West,400,4,0.2,80
+5,2024-01-05,1005,Michael Brown,P005,Widget B,Widgets,North,500,5,0.15,125
